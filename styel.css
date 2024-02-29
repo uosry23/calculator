@@ -1,0 +1,35 @@
+.none {
+  display: none;
+  width: 10%;
+  height: 20vh;
+}
+.btn-dark {
+  border: 50px !important;
+  border-color: red !important;
+  border-color: #8b8b8b !important;
+}
+#s {
+  border-color: #ffffff !important;
+}
+body {
+  background-color: rgb(74, 73, 73);
+}
+#equal {
+  border-color: #ffffff !important;
+}
+#calc {
+  background-image: url(./6763444ac4a65ce501c10c131745ebed.jpg);
+  padding: 50px;
+  border-radius: 30px;
+  box-shadow: black !important;
+}
+input {
+  color: #ffffff;
+  background-color: rgb(68, 68, 68);
+}
+button {
+  font-size: large !important;
+}
+.main {
+  box-shadow: #ffffff !important;
+}
